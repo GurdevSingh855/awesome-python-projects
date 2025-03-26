@@ -1,6 +1,6 @@
 
 # 👣 **Awesome python projects**
-### 🧐 A collection of super-cool Python projects for  beginners
+### 🧐 A collection of super-cool Python projects for  starters
 With easy coding and syntax
 
 ![Author](https://img.shields.io/badge/author-garimasingh128-orange)
