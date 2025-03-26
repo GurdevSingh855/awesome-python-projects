@@ -1,6 +1,7 @@
 
 # 👣 **Awesome python projects**
-### 🧐 A collection of super-cool Python projects for snew comers✨
+### 🧐 A collection of super-cool Python projects for  beginners
+>>>>>>> conflict-demo
 With easy coding and syntax
 
 ![Author](https://img.shields.io/badge/author-garimasingh128-orange)
